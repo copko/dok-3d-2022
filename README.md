@@ -1,1 +1,2 @@
-# dok-3d-2022
+# Prvý repozitár pre predmet Technická dokumentácia v IT
+Bude obsahovať jednoduchú webovú stránku
