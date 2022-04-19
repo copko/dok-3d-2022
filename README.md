@@ -2,3 +2,4 @@
 Bude obsahovať jednoduchú webovú stránku
 
 Autor: Jozo
+Autor: Fero
