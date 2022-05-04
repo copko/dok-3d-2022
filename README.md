@@ -4,3 +4,5 @@ Bude obsahovať jednoduchú webovú stránku
 Autor: Jozo
 Autor: Fero
 Test 123
+
+Dnes je streda 4.5.2022.
