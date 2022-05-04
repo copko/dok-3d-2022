@@ -8,3 +8,5 @@ Test 123
 Dnes je streda 4.5.2022.
 
 Ok veď dobre.
+
+Dnes bola na obed cicerova polievka.
